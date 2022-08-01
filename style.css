@@ -1,0 +1,101 @@
+body {
+  background-color: #026aa7;
+  max-width: 1440px;
+  max-height: 900px;
+  margin: 50px;
+  padding: 50px;
+}
+body .page {
+  width: 1000px;
+  height: 1100px;
+  background-color: #e4f0f6;
+  padding: 50px;
+}
+body .page .navbar {
+  display: flex;
+  gap: 40rem;
+  padding-left: 90px;
+}
+body .page .navbar .two {
+  padding-top: 20px;
+}
+body .page .navbar .two button {
+  width: 120px;
+  height: 40px;
+  border-radius: 20px;
+  background-color: black;
+  color: #e4f0f6;
+}
+body .page .header {
+  padding: 90px;
+}
+body .page .header h1 {
+  padding: 2px;
+}
+body .page .header p {
+  padding-bottom: 10px;
+  width: 300px;
+}
+body .page .header button {
+  width: 120px;
+  height: 40px;
+  border-radius: 20px;
+  border: none;
+  background-color: #ff781f;
+  color: #e4f0f6;
+}
+body .page .header h4 {
+  display: flex;
+  justify-content: end;
+  color: #ff781f;
+  font-size: x-large;
+}
+body .page .options {
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 200px;
+  padding-bottom: 180px;
+  width: 700px;
+  gap: 1rem;
+}
+body .page .options .card1 {
+  width: 200px;
+  height: 200px;
+  border: black 1px solid;
+  text-align: center;
+}
+body .page .options .card2 {
+  width: 200px;
+  height: 200px;
+  border: black 1px solid;
+  text-align: center;
+}
+body .page .options .card3 {
+  width: 200px;
+  height: 200px;
+  border: black 1px solid;
+  text-align: center;
+}
+body .page .options .card4 {
+  width: 200px;
+  height: 200px;
+  border: black 1px solid;
+  text-align: center;
+}
+body .page .options .card5 {
+  width: 200px;
+  height: 200px;
+  border: black 1px solid;
+  text-align: center;
+}
+body .page .options .card6 {
+  width: 200px;
+  height: 200px;
+  border: black 1px solid;
+  text-align: center;
+}
+body .footer {
+  width: 100%;
+  height: 50px;
+  background-color: black;
+}/*# sourceMappingURL=style.css.map */
