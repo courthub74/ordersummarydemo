@@ -98,9 +98,25 @@ body {
         }
     }
     .footer {
+        display: flex;
+        gap: 40rem;
         width: 100%;
         height: 50px;
         background-color: black;
+        padding-top: 20px;
+        padding-left: 30px;
+        padding-bottom: 20px;
+        h4 {
+            color: #e4f0f6;
+        }
+        button {
+            width: 120px;
+            height: 40px;
+            border-radius: 20px;
+            background-color: $buttonorange;
+            color: #e4f0f6;
+            border: none;
+        }
     }
 }
 
